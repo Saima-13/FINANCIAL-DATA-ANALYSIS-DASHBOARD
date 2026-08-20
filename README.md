@@ -1,4 +1,3 @@
-# FINANCIAL-DATA-ANALYSIS-DASHBOARD
 
 # 💰 Financial Data Analysis Dashboard
 
